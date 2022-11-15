@@ -1,2 +1,2 @@
-myname: wyy101010
-age: 32
+config:
+  info: hello, version = 1
